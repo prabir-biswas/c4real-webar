@@ -245,8 +245,7 @@
               path: 'ar-barebones.html',
               description: 'Extremely simple use of "immersive-ar" sessions with no library dependencies. Doesn\'t render anything exciting.',
               noPolyfill: true },
-			  
-			  { title: 'AR Laptop', category: 'AR Basics',
+			  { title: 'AR Laptop', category: 'AR Laptop',
               path: 'ar-laptop.html',
               description: 'Demonstrates using the Hit Test API to place a laptop on the real world space'},
           ];
